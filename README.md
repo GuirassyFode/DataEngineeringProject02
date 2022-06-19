@@ -1,5 +1,7 @@
 # DataEngineeringProject02
-PostgrSQL  DataBase 
+Prerequisites:
+Download PostegSQL
+Downlaod Pandas 
 
 This Part 1 project will include steps 1,2 and 3
  1- Find Dataset fom link
