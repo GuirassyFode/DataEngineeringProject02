@@ -1,4 +1,7 @@
 # DataEngineeringProject02
+
+GOAL: This project aims to build a data warehouse using the e-commerce  data set, enriching the data with the customer purchase  dataset  for data analysis. This is built for a data analytics table.
+
 Prerequisites:
 Download PostegSQL
 Downlaod Pandas 
