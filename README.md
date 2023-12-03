@@ -1,7 +1,7 @@
 # DataEngineeringProject02
 
 # Overview
-This project demonstrates creating tables in PostgreSQL using Python, specifically leveraging the psycopg2 library. The script sets up a connection to a PostgreSQL database, creates tables for departments, locations, and employees, inserts data into these tables, and performs a select query to retrieve data.
+This project demonstrates creating tables in PostgreSQL using Python, specifically leveraging the psycopg2 library. The scriptS (Project 1 & 2) sets up a connection to a PostgreSQL database, creates tables for departments, locations, and employees, inserts data into these tables, and performs a select query to retrieve data.
 
 # Requirements:
 Python 3.x
