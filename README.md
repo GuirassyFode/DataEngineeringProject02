@@ -1,17 +1,28 @@
 # DataEngineeringProject02
 
-GOAL: This project aims to build a data warehouse using the e-commerce  data set, enriching the data with the customer purchase  dataset  for data analysis. This is built for a data analytics table.
+# Overview
+This project demonstrates creating tables in PostgreSQL using Python, specifically leveraging the psycopg2 library. The script sets up a connection to a PostgreSQL database, creates tables for departments, locations, and employees, inserts data into these tables, and performs a select query to retrieve data.
 
-To help answer questions like:
-Regular customer Transactions
-Fraudulent Transaction
-Classify as fraudulent and who made that transaction?
+# Requirements:
+Python 3.x
+psycopg2 library
 
-This Part 1 project will include steps 1,2 and 3
- 1- Find Dataset from link
- 2- Build Data Model
- 3- Write Python code to create table structure
- 4- Insert Data from file to database (this part will be in Project Part_2)
- 5- Build Web application to visualize the data using Python (this part will be in Project Part_3)
- 6- Connect Database to Tableau for also data visualization (this part will be in Project Part_4)
+Install the required library using the following commands:
+![image](https://github.com/GuirassyFode/DataEngineeringProject02/assets/25976326/b2a726aa-011e-4e3b-9119-ca5e08f8e4de)
+
+# Database Connection:
+
+Edit the script to provide your PostgreSQL database connection details (host, database, user, password).
+Ensure that your PostgreSQL server is running.
+Run the Script:
+
+Execute the script Data_Engineering_Porject_01.py in a Python environment.
+Review Console Output:
+
+Check the console output for any errors or success messages during the execution of SQL queries.
+Project Structure
+Data_Engineering_Porject_01.py: Main Python script with the data engineering logic.
+README.md: Project documentation providing an overview, requirements, usage instructions, and project structure.
+# Notes
+This script assumes that the PostgreSQL server is running locally with default settings. Adjust the connection parameters accordingly.
 
