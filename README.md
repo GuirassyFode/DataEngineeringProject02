@@ -27,7 +27,7 @@ Check the console output for any errors or success messages during the execution
 # .Project Structure
 
 Data_Engineering_Porject_01.py: Main Python script with the data engineering logic.
-## .README.md: Project documentation providing an overview, requirements, usage instructions, and project structure.
+
 ## Notes
 This script assumes that the PostgreSQL server is running locally with default settings. Adjust the connection parameters accordingly.
 
